@@ -1,6 +1,6 @@
 # Data Express
 
-## Installation Pre Requisites
+## Installation Guide
 
 ## 1.
 ### Download the gcloud cli https://cloud.google.com/sdk/docs/install

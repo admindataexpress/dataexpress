@@ -11,9 +11,7 @@
 ### 1.
 #### Download the gcloud cli https://cloud.google.com/sdk/docs/install
 
-#### Open the powershell and run gcloud auth login to login to an account 
-#### that has Big Query Data Editor permissions on the dataset on which 
-#### the file will be uploaded to a table.
+#### Open the powershell and run gcloud auth login to login to an account that has Big Query Data Editor permissions on the dataset on which the file will be uploaded to a table.
 
 ### 2.
 #### Download the corresponding libraries:
